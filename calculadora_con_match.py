@@ -6,6 +6,7 @@ while True:
   print("3. Multiplicar")
   print("4. Dividir")
   print("5. Salir")
+  print
 
   opcion = int(input("Ingrese la opción deseada: "))
 
